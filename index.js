@@ -55,7 +55,7 @@ const authors = {
   mweststrate: 'https://www.paypal.me/michelweststrate',
   noffle: 'https://en.liberapay.com/noffle/',
   nzakas: 'https://www.paypal.me/nczonline',
-  olstenlarck: 'https://www.paypal.me/tunnckoCore',
+  tunnckocore: 'https://patreon.com/tunnckoCore',
   ovhemert: 'https://www.patreon.com/ovhemert',
   panva: 'https://www.patreon.com/panva',
   paulcbetts: 'https://www.patreon.com/paulcbetts',
